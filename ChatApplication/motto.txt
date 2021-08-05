@@ -1,0 +1,2 @@
+try some time to create a java application for chat
+chat consist (threading/java_queue/networking/socket)
